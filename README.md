@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with signup form challenge solution
 
-This is a solution to the [Intro component with signup form challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-proof-section-P3Edn8V6h). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Intro component with signup form challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-intro-component-with-signup-form-IkHEh_1as). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -19,8 +19,8 @@ This is a solution to the [Intro component with signup form challenge on Fronten
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/NAZIRwill29/social-proof-section)
-- Live Site URL: [Intro component with signup form Challenge - Github](https://social-proof-section-mdnazir.netlify.app/)
+- Solution URL: [Repository](https://github.com/NAZIRwill29/intro-component-with-signup-form)
+- Live Site URL: [Intro component with signup form Challenge - Github](https://intro-component-with-signup-form-mdnazir.netlify.app/)
 
 ## My process
 
