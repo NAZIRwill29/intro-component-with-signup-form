@@ -20,7 +20,7 @@ This is a solution to the [Intro component with signup form challenge on Fronten
 ### Links
 
 - Solution URL: [Repository](https://github.com/NAZIRwill29/intro-component-with-signup-form)
-- Live Site URL: [Intro component with signup form Challenge - Github](https://intro-component-with-signup-form-mdnazir.netlify.app/)
+- Live Site URL: [Intro component with signup form Challenge - Netlify](https://intro-component-with-signup-form-mdnazir.netlify.app/)
 
 ## My process
 
